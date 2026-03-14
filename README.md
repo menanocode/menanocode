@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I’m Nno1st</h1>
-<h3 align="center">Full‑Stack Developer | Lifelong Learner | Building Modern Web Applications</h3>
+<h3 align="center">Network Administration | Specialist Remote Support | Operational Management | Customer Service | Product Development</h3>
 
 <p align="center">
   <a href="https://github.com/menanocode"><img src="https://komarev.com/ghpvc/?username=menanocode&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" /></a>
