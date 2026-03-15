@@ -12,9 +12,9 @@
 I’m a software developer focused on building maintainable, scalable full‑stack web applications. Currently working with modern technologies like **React**, **Node.js**, and **TypeScript**, while continually learning **Microservices Architecture** and **DevOps**.
 
 - 🔭 I’m currently developing an **e‑learning platform using React/Node.js**
-- 🌱 I’m learning **Docker, Kubernetes, and AWS**
-- 💬 Ask me about **JavaScript, PHP, Laravel, MySQL, API design**
-- ⚡️ Fun fact: I enjoy solving logic puzzles and playing guitar
+- 🌱 I’m learning **Python**
+- 💬 Ask me about **Networking**
+- ⚡️ Fun fact: I enjoy playing strategic game and playing guitar
 
 ---
 
